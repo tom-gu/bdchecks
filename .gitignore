@@ -23,6 +23,7 @@
 
 # RStudio files
 .Rproj.user/
+bdchecks_tom-gu.Rproj
 
 # produced vignettes
 vignettes/*.html
